@@ -3,7 +3,11 @@ package geekbrains.com.lesson1.exemples.HomeWork;
 import geekbrains.com.lesson1.exemples.HomeWork.Obstacle.Obstacle;
 import geekbrains.com.lesson1.exemples.HomeWork.Obstacle.Track;
 import geekbrains.com.lesson1.exemples.HomeWork.Obstacle.Wall;
-import geekbrains.com.lesson1.exemples.HomeWork.Participiant.*;
+import geekbrains.com.lesson1.exemples.HomeWork.Participiant.Cat;
+import geekbrains.com.lesson1.exemples.HomeWork.Participiant.Human;
+import geekbrains.com.lesson1.exemples.HomeWork.Participiant.Participant;
+import geekbrains.com.lesson1.exemples.HomeWork.Participiant.Robot;
+
 
 public class CompetitionExit {
     public static void main(String[] args) {
