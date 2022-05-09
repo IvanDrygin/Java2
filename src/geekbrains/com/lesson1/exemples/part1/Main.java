@@ -1,4 +1,4 @@
-package geekbrains.com;
+package geekbrains.com.lesson1.exemples.part1;
 
 public class Main {
 
