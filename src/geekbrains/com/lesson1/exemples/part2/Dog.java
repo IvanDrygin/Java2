@@ -10,7 +10,7 @@ public class Dog extends Animal implements Pet, Waterfowl{
 
     @Override
     public String info() {
-        return "This is Dog and my name is" + Pet.name ;
+        return "This is Dog and my name is" + name;
     }
 
     @Override
